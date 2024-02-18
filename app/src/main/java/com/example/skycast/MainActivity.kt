@@ -138,4 +138,4 @@ class MainActivity : AppCompatActivity() {
         val sdf = SimpleDateFormat("EEEE", Locale.getDefault())
         return sdf.format(Date())
     }
-}
+}               //ayush Sharma
